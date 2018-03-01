@@ -1,5 +1,5 @@
 #!/bin/bash
-# This script start a server for slate from slate image.
+# This script start a server for slate from slate image .
 # if you want to add file to this docker image, use the following command
 # docker cp {FILE or FOLDER} slate-server:/app/slate/source
 set -e
